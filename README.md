@@ -42,7 +42,8 @@ Configure your MySQL database connection in the database configuration class:
 Set your database URL
 Set your username and password
 Make sure the MySQL JDBC driver is added to the project libraries
-Build and run the project
+Build and run the project.
+
 Requirements
 Java JDK 8 or higher
 NetBeans IDE (recommended)
@@ -51,5 +52,7 @@ MySQL JDBC Driver (Connector/J)
 Notes
 Database credentials in the source code have been replaced with placeholders for security reasons. You must configure your own database connection details before running the project.
 This project was developed for educational purposes as part of a university course.
+
 Author
+
 Alperen Pekdemir
